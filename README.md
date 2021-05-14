@@ -1,8 +1,8 @@
 ---
-description: 스프링정복기
+description: 토비의 스프링을 공부한 내용을 정리하는 Repository
 ---
 
-# 토비의 스프링을 읽으며
+# Introduction
 
-## 스프링이란 무엇인가?
+## 
 
